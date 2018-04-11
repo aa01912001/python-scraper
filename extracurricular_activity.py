@@ -1,5 +1,4 @@
-"""to find TKU extracurricular activitys newest news
-"""
+"""to find TKU extracurricular activitys newest news"""
 import pymysql
 from bs4 import BeautifulSoup
 from selenium import webdriver
